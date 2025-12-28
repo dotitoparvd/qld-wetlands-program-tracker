@@ -29,6 +29,10 @@ The Queensland Wetlands Program (QWP) is a strategic framework that guides wetla
 - Provide technical guidance and resources for private‑land wetland management.
 - Raise public awareness through education campaigns and citizen‑science initiatives.
 
+## Funding and Resources
+
+Sustained funding and adequate resources are critical to achieving the long‑term goals of the Queensland Wetlands Program. Many of the key actions—such as mapping, monitoring, community grants, and research—require consistent financial support from both state and federal governments, as well as partnerships with private and philanthropic sectors. Without reliable funding, the program risks becoming a collection of good intentions rather than a driver of on‑ground change. Tracking funding commitments and resource allocations will help ensure that the program’s ambitious objectives are matched by the necessary means to implement them.
+
 ---
 
 *This document will be updated as the program evolves and new strategies are adopted.*
